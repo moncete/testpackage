@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+src/testhola/__init__.py
+src/testhola/testhola.py
+src/testhola.egg-info/PKG-INFO
+src/testhola.egg-info/SOURCES.txt
+src/testhola.egg-info/dependency_links.txt
+src/testhola.egg-info/top_level.txt
